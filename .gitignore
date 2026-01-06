@@ -10,16 +10,7 @@ venv/
 *.egg-info/
 dist/
 
-# ========================
-# Vidéos / images temporaires
-# ========================
-uploads/
-*.mp4
-*.avi
-*.mov
-*.jpg
-*.jpeg
-*.png
+
 
 # ========================
 # Logs
